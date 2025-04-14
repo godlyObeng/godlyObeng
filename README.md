@@ -1,12 +1,11 @@
 - 👋 Hi, I’m Godly Obeng Karikari
 - 👀 I’m interested in ... anything kubernetes,docker related, I am there.
-- 🌱 I’m currently learning ... Proxmox, Malware Analysis, Docker, Kubernetes, and Networking
+- 🌱 I’m currently learning ... Kubernetes, Proxmox, Malware Analysis, Docker, Container Security and Networking
 - 📫 How to reach me ...gobeng43@gmail.com
 
 
- ## PLEASE CHECK MY GITLAB FOR ALL MY RECENT COMMITS AND PROJECTS
+ ## PLEASE CHECK MY HOMELAB REPO FOR A CURRENT REPRESENTATION OF MY HOMELAB
 
- https://gitlab.godlyobeng.com/godlyobeng
 
 <!---
 godlyObeng/godlyObeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
