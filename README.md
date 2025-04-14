@@ -4,7 +4,7 @@
 - 📫 How to reach me ...gobeng43@gmail.com
 
 
- ## PLEASE CHECK MY GITLAB FOR ALL MY RECENT COMMITS AND PROJECTS!!!
+ ## PLEASE CHECK MY GITLAB FOR ALL MY RECENT COMMITS AND PROJECTS
 
  https://gitlab.godlyobeng.com/godlyobeng
 
