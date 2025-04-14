@@ -6,6 +6,7 @@
 
  ## PLEASE CHECK MY HOMELAB REPO FOR A CURRENT REPRESENTATION OF MY HOMELAB
 
+https://github.com/godlyObeng/homelab-k8s
 
 <!---
 godlyObeng/godlyObeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
