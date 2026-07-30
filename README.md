@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Godly Obeng Karikari
 - 👀 I’m interested in ... anything kubernetes,docker related, I am there.
-- 🌱 I’m currently learning ... Kubernetes, Proxmox, Malware Analysis, Docker, Container Security and Networking
-- 📫 How to reach me ...gobeng43@gmail.com
+- 🌱 Senior Platform and Infrastructure Engineer working with Kubernetes, Linux, networking, automation and security platforms. Currently building and operating a multi-node Kubernetes homelab using kubeadm, RKE2, Cilium, BGP and Ansible.
+- 📫 How to reach me ...me@godlyobeng.com
 
 
  ## PLEASE CHECK MY HOMELAB REPO FOR A CURRENT REPRESENTATION OF MY HOMELAB
