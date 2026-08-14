@@ -5,6 +5,7 @@
 
 
  ## PLEASE CHECK MY HOMELAB REPO FOR A CURRENT REPRESENTATION OF MY HOMELAB
+ ## I also have a blog at https://blog.godlyobeng.com
 
 https://github.com/godlyObeng/homelab-k8s
 
