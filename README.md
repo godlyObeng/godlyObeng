@@ -1,17 +1,43 @@
-- 👋 Hi, I’m Godly Obeng Karikari
-- 👀 I’m interested in ... anything kubernetes,docker related, I am there.
-- 🌱 Senior Platform and Infrastructure Engineer working with Kubernetes, Linux, networking, automation and security platforms. Currently building and operating a multi-node Kubernetes homelab using kubeadm, RKE2, Cilium, BGP and Ansible.
-- 📫 How to reach me ...me@godlyobeng.com
+# Godly Obeng Karikari
 
+Platform and Infrastructure Engineer, based in Greater Manchester.
 
- ## PLEASE CHECK MY HOMELAB REPO FOR A CURRENT REPRESENTATION OF MY HOMELAB
- ## I also have a blog at https://blog.godlyobeng.com
+I build and own Kubernetes platforms: cluster lifecycle, highly available service exposure, GitOps delivery, identity, storage and the on-call work that comes with running something people depend on. Most of my time goes on building platforms that are documented well enough for another engineer to support without me.
 
-https://github.com/godlyObeng/homelab-k8s
+Currently working on Kubernetes and security platforms in a distributed UK and US team, and open to platform or infrastructure engineering roles.
 
-![Homelab Kubernetes Diagram](https://github.com/godlyObeng/homelab-k8s/blob/44699777b03984ac8105350e0e89493e24fcbf45/Screenshot%202025-04-14%20at%2018.00.24.png)
+## What I work with
+
+| Area | Tools |
+| --- | --- |
+| Platforms | Kubernetes, RKE2, kubeadm, Helm, Rancher, Proxmox |
+| Cloud and IaC | AWS EKS and EC2, Terraform, Pulumi, Ansible, Packer |
+| Delivery | GitLab CI/CD, GitOps with Rancher Fleet and Argo CD |
+| Networking | Cilium, ClusterMesh, kube-vip, MetalLB, BGP, network policy |
+| Data and identity | CloudNativePG, Longhorn, MinIO, Keycloak and OpenID Connect |
+| Reliability | On-call incident response, Prometheus, Grafana, OpenSearch, Graylog |
+| Languages | Python, Bash, C and Pro*C, PL/SQL |
+
+## Homelab
+
+I run a multi-node Kubernetes platform at home: RKE2 on Flatcar Linux across a Proxmox cluster, provisioned with Pulumi, using Cilium for the datapath and load balancing, kube-vip for the API endpoint, Longhorn and CloudNativePG for state, Rancher Fleet for delivery and Keycloak for single sign-on.
+
+The architecture and the reasoning behind each decision are documented here:
+
+**[github.com/godlyObeng/homelab-k8s](https://github.com/godlyObeng/homelab-k8s)**
+
+## Writing
+
+I write up the things that took me a while to get right. Recent example:
+
+**[Give your bare-metal cluster real LoadBalancer IPs with Cilium](https://blog.godlyobeng.com/cilium-loadbalancer-l2-service/)**
+
+More at [blog.godlyobeng.com](https://blog.godlyobeng.com).
+
+## Contact
+
+me@godlyobeng.com
 
 <!---
-godlyObeng/godlyObeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+godlyObeng/godlyObeng is a special repository because its README.md appears on my GitHub profile.
 --->
